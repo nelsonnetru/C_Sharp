@@ -1,13 +1,20 @@
 ﻿Console.Clear();
 Console.Write ("Введите число N: ");
 
-int a = int.Parse(Console.ReadLine());
+int N = int.Parse(Console.ReadLine());
 
-Console.Write("Четные числа: ");
-for (int i=1; i <= a; i++)
+Console.WriteLine("Четные числа: ");
+for (int i=1; i <= N; i++)
 {
 	if (i%2 == 0)
 		Console.Write(i+ " ");
+}
+
+Console.WriteLine("");
+
+for (int i=2; i <= N; i=i+2)
+{
+	Console.Write(i+ " ");
 }
 
 Console.WriteLine("");
