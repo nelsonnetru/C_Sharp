@@ -11,8 +11,8 @@
 8. *Дополнительно: [задача про друзей и собаку (из алгоритмов)](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/FriendsAndDog)*
 
 ## [Семинар №1](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01)
-- [**z_01**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_01) Возведение числа в квадрат
-- [**z_02**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_02) Ввести числа a, b. Проверить, является ли число **a квадратом числа b**
+- [**z_00**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_00) Возведение числа в квадрат
+- [**z_01**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_01) Ввести числа a, b. Проверить, является ли число **a квадратом числа b**
 - [**z_03**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_03) Ввести число от 1 до 7 и вывести наименование дня недели, соответствующее этому числу (через массив)
 - [**z_05**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_05) Ввести число N и ввести все целые числа от -N до N
 - [**z_07**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_07) Ввести трехзначное число, вывести на экран последнюю цифру этого трёхзначного числа
