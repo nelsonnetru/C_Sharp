@@ -8,7 +8,7 @@
 5. [If Else](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example005_IfElse)
 6. [Base](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example006_Base)
 7. [Magic and triangle](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example007_Magic)
-*Дополнительно: [задача про друзей и собаку (из алгоритмов)](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/FriendsAndDog)*
+* *Дополнительно: [задача про друзей и собаку (из алгоритмов)](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/FriendsAndDog)*
 
 ## [Семинар №1](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01)
 - [**z_00**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_01/z_00) Возведение числа в квадрат
