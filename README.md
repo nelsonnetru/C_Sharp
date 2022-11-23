@@ -1,5 +1,14 @@
 # Знакомство с C#
 
+* **Урок 1**
+    * [Лекция](#лекция-1)
+    * [Семинар](#семинар-1)
+    * [Домашняя работа](#домашняя-работа-1)
+* **Урок 2**
+    * [Лекция](#лекция-2)
+    * [Семинар]
+    * [Домашняя работа]
+---
 ## [Лекция №1](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01)
 1. [HelloConsole](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example001_HelloConsole)
 2. [HelloUser](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example002_HelloUser)
@@ -48,3 +57,4 @@ a = -9 b = -3 -> max = -3
 9. [IntroArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example009_IntroArray)
 10. [IntroMathodArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example010_IntroMathodArray)
 11. [ArrayLibrary](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example011_ArrayLibrary)
+* *Дополнительно: [упражнения с массивами](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/ArraysTasks)*
