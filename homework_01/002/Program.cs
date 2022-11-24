@@ -17,3 +17,8 @@ else
 {
 	Console.WriteLine ("max = " +b);
 }
+
+// тернарная операция
+Console.WriteLine("Тернарная операция:");
+int max = a > b ? a : b;
+Console.WriteLine($"Максимальное число: {max}");

@@ -55,6 +55,6 @@ a = -9 b = -3 -> max = -3
 ## [Лекция №2](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02)
 8. [IntroMethod](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example008_IntroMethod)
 9. [IntroArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example009_IntroArray)
-10. [IntroMathodArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example010_IntroMathodArray)
+10. [IntroMethodArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example010_IntroMethodArray)
 11. [ArrayLibrary](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example011_ArrayLibrary)
 * *Дополнительно: [упражнения с массивами](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/ArraysTasks)*
