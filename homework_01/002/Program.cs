@@ -1,21 +1,21 @@
 ﻿Console.Clear();
-Console.Write ("Введите число а: ");
+Console.Write("Введите число а: ");
 int a = int.Parse(Console.ReadLine());
 
-Console.Write ("Введите число b: ");
+Console.Write("Введите число b: ");
 int b = int.Parse(Console.ReadLine());
 
-if (a > b) 
+if (a > b)
 {
-	Console.WriteLine ("max = " +a);
+    Console.WriteLine("max = " + a);
 }
-else if (a==b) 
+else if (a == b)
 {
-	Console.WriteLine ("a == b");
+    Console.WriteLine("a == b");
 }
-else 
+else
 {
-	Console.WriteLine ("max = " +b);
+    Console.WriteLine("max = " + b);
 }
 
 // тернарная операция
