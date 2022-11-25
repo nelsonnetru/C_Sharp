@@ -6,8 +6,8 @@
     * [Домашняя работа](#домашняя-работа-1)
 * **Урок 2**
     * [Лекция](#лекция-2)
-    * [Семинар]
-    * [Домашняя работа]
+    * [Семинар](#семинар-2)
+    * [Домашняя работа](#домашняя-работа-2)
 ---
 ## [Лекция №1](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01)
 1. [HelloConsole](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example001_HelloConsole)
@@ -58,3 +58,31 @@ a = -9 b = -3 -> max = -3
 10. [IntroMethodArray](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example010_IntroMethodArray)
 11. [ArrayLibrary](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/Example011_ArrayLibrary)
 * *Дополнительно: [упражнения с массивами](https://github.com/nelsonnetru/C_sharp/tree/master/lection_02/ArraysTasks)*
+
+## [Семинар №2](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02)
+- [**001**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02/001) Для случайного числа от 10 до 99 получить первую и вторую цифру и определить какая из них больше
+- [**002**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02/002) Для случайного трехзначного числа от 100 до 999 убрать цифру, которая стоит на второй позиции 7**6**8, 1**2**3
+- [**003**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02/003) Напишите программу, которая будет принимать на вход два числа и выводить, является ли второе число кратным первому. Если число 2 не кратно числу 1, то программа выводит остаток от деления.
+- [**004**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02/004) Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23
+- [**005**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_02/005) Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.
+
+## [Домашняя работа №2](https://github.com/nelsonnetru/C_sharp/tree/master/homework_02)
+
+- [**Задача 10:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_02/010) Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+```
+456 -> 5
+782 -> 8
+918 -> 1
+```
+- [**Задача 13:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_02/013) Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+```
+645 -> 5
+78 -> третьей цифры нет
+32679 -> 6
+```
+- [**Задача 15:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_02/015) Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+```
+6 -> да
+7 -> да
+1 -> нет
+```

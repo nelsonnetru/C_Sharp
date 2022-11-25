@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int randomDigit = new Random().Next(10, 1000); // Случайное число от 10 до 99
+int randomDigit = new Random().Next(100, 1000); // Случайное число от 100 до 999
 Console.WriteLine("Случайное число: " +randomDigit);
 
 int resultOneLine = ((randomDigit/100)*10+(randomDigit%10));
