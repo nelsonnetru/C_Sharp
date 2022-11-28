@@ -15,7 +15,7 @@ int DataEntryXY(string str)
 
 double CalcDistance(int x1, int y1, int x2, int y2)
 {
-    double result = Math.Sqrt(Math.Pow((x2-x1), 2) + Math.Pow((y2-y1), 2));
+    double result = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
     return result;
 }
 
@@ -26,4 +26,4 @@ int x2 = DataEntryXY("Введите координаты X2: ");
 int y2 = DataEntryXY("Введите координаты Y2: ");
 
 double result = CalcDistance(x1, y1, x2, y2);
-Console.WriteLine("Расстояние между точками: " + result); 
+Console.WriteLine("Расстояние между точками: " + result);
