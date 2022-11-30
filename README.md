@@ -8,6 +8,10 @@
     * [Лекция](#лекция-2)
     * [Семинар](#семинар-2)
     * [Домашняя работа](#домашняя-работа-2)
+* **Урок 3**
+    * [Лекция](#лекция-3)
+    * [Семинар](#семинар-3)
+    * [Домашняя работа](#домашняя-работа-3)
 ---
 ## [Лекция №1](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01)
 1. [HelloConsole](https://github.com/nelsonnetru/C_sharp/tree/master/lection_01/Example001_HelloConsole)
@@ -85,4 +89,33 @@ a = -9 b = -3 -> max = -3
 6 -> да
 7 -> да
 1 -> нет
+```
+---
+## [Лекция №3](https://github.com/nelsonnetru/C_sharp/tree/master/lection_03)
+* [ArraySort](https://github.com/nelsonnetru/C_sharp/tree/master/lection_03/ArraySort)
+* [CharReplace](https://github.com/nelsonnetru/C_sharp/tree/master/lection_03/CharReplace)
+
+## [Семинар №3](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_03)
+- [**001**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_03/001) Определить квадрант по координатам точки.
+- [**002**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_03/002) Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
+- [**003**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_03/003) Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
+- [**004**](https://github.com/nelsonnetru/C_sharp/tree/master/seminar_03/004) Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.
+
+## [Домашняя работа №3](https://github.com/nelsonnetru/C_sharp/tree/master/homework_03)
+
+- [**Задача 19:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_03/019) Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+```
+14212 -> нет
+12821 -> да
+23432 -> да
+```
+- [**Задача 21:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_03/021) Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+```
+A (3,6,8); B (2,1,-7), -> 15.84
+A (7,-5, 0); B (1,-1,9) -> 11.53
+```
+- [**Задача 23:**](https://github.com/nelsonnetru/C_sharp/tree/master/homework_03/023) Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+```
+3 -> 1, 8, 27
+5 -> 1, 8, 27, 64, 125
 ```
