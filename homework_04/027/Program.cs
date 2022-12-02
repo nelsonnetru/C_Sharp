@@ -17,7 +17,7 @@ int SumDigits (string strDigit) // математически, через дел
 	return result;
 }
 
-double SumDigitsVar2 (string strDigit) // через Char, перебирая всю строку
+int SumDigitsVar2 (string strDigit) // через Char, перебирая всю строку
 {
 	double result = 0;
 
@@ -30,15 +30,15 @@ double SumDigitsVar2 (string strDigit) // через Char, перебирая в
 		result += Char.GetNumericValue(strDigit[i]);
 	}
 
-	return result;
+	return (int)result;
 }
 
 Console.Clear();
 Console.Write("Введите целое число: ");
 string number = Console.ReadLine();
 
-int sum1 = SumDigits(number); // только для целых чисел
-double sum2 = SumDigitsVar2(number); // с плавающей точкой (включая целые числа)
+int sum1 = SumDigits(number); // number: только для целых чисел
+int sum2 = SumDigitsVar2(number); // number: с плавающей точкой (включая целые числа)
 
 Console.WriteLine($"Способ 1: Сумма цифр числа {number} = {sum1}");
 Console.WriteLine($"Способ 2: Сумма цифр числа {number} = {sum2}");
