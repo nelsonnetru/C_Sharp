@@ -27,8 +27,8 @@ void FindDifferentMaxAndMin(float[] array, out float maxElement, out float minEl
 
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] < minElement) minElement = array[i];
-	    if (array[i] > maxElement) maxElement = array[i];
+    	if (array[i] < minElement) minElement = array[i];
+        if (array[i] > maxElement) maxElement = array[i];
     }
       
     different = maxElement - minElement;
