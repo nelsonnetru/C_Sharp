@@ -83,14 +83,8 @@ void SpiraleArray(int[,] array)
                 goRight = true;
                 leftBorder++;
 
-                flag = true;  // флаг для завершения "круга", новый круг должен начаться в сторону goRight, как самый первый раз
+                continue;  // для завершения "круга", новый круг должен начаться в сторону goRight, как самый первый раз
             }
-        }
-
-        if (flag)
-        {
-            flag = false;
-            continue;
         }
 
         count++;
