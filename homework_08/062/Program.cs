@@ -16,7 +16,6 @@ GO UP:        /\      i--;            j = const;
 
 */
 
-
 void SpiraleArray(int[,] array)
 {
     int iSize = array.GetLength(0);
